@@ -1,0 +1,2 @@
+# MyMarkdownResource
+test
